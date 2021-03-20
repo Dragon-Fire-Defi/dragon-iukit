@@ -2010,11 +2010,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.waterswap.finance/",
+                href: "https://exchange.dragonfiredefi.com/",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.waterswap.finance/#/pool",
+                href: "https://exchange.dragonfiredefi.com/#/pool",
             },
         ],
     },
@@ -2116,12 +2116,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-		href: "https://t.me/water_finance",
+		href: "https://t.me/dragonfire_chat",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/WaterFinance1",
+        href: "https://twitter.com/DragonFireDefi",
     },
 ];
 var MENU_HEIGHT = 64;
